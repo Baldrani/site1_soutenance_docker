@@ -83,7 +83,7 @@
                 <div class="links">
                     <a>Benyouceff Rachel</a>
                     <a>Mayon Maël</a>
-                    <a>Pham ngoc Guillaume</a>
+                    <a>Pham ngoc GGuillaume</a>
                 </div>
             </div>
         </div>
